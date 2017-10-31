@@ -1,0 +1,3 @@
+/home/pi/_IOTProject/thinger_client/build/CMakeFiles/edit_cache.dir
+/home/pi/_IOTProject/thinger_client/build/CMakeFiles/rebuild_cache.dir
+/home/pi/_IOTProject/thinger_client/build/CMakeFiles/thinger.dir
